@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NoahPink
+Comment=A more pink look for Linux Mint! This is my first theme!
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=NoahPink
+GtkTheme=NoahPink
+MetacityTheme=NoahPink
