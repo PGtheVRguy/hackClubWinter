@@ -2127,15 +2127,15 @@ GtkInfoBar {
 .menubar {
   -GtkWidget-window-dragging: true;
   border: 0;
-  background-color: #1c2126;
+  background-color: #c977c7;
   background-image: none;
-  color: #d8e5f2; }
+  color: #170c17; }
   .menubar.menuitem, .menubar .menuitem {
     padding: 5px 7px;
     border: 1px solid transparent;
     background-color: transparent;
     background-image: none;
-    color: #d8e5f2; }
+    color: #170c17; }
     .menubar.menuitem:hover, .menubar .menuitem:hover {
       border-color: mix(#1c2126,#d8e5f2,0.21);
       background-color: mix(#1c2126,#d8e5f2,0.21);
@@ -2159,10 +2159,10 @@ GtkTreeMenu.menu, GtkTreeMenu .menu, GtkMenuToolButton.menu, GtkMenuToolButton .
   padding: 0;
   border-radius: 0;
   border: 1px solid mix(#1c2126,#d8e5f2,0.21);
-  background-color: #d173d9;
-  color: #d173d9; }
+  background-color: #d968d5;
+  color: #170c17; }
   #toolbar-popup:selected, .menu:selected {
-    background-color: #d173d9; }
+    background-color: #d968d5; }
   #toolbar-popup .button, #toolbar-popup .button:hover, #toolbar-popup .button:active, #toolbar-popup .button:active *:insensitive, #toolbar-popup .button:insensitive, .menu .button, .menu .button:hover, .menu .button:active, .menu .button:active *:insensitive, .menu .button:insensitive {
     border-width: 0;
     background-color: transparent;
@@ -4913,10 +4913,10 @@ TerminalNotebook.notebook {
   border-style: solid;
   border-color: #14171b;
   border-radius: 0;
-  background-color: #1c2126;
+  background-color: #d08adb;
   background-image: linear-gradient(to bottom, #232930, #15191d);
   background-clip: border-box;
-  color: #d8e5f2;
+  color: #1b131c;
   -GtkNotebook-initial-gap: 0;
   -GtkNotebook-arrow-spacing: 5;
   -GtkNotebook-tab-curvature: 0;
