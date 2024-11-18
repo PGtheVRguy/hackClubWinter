@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_voice_d0",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.035556,
+  "name":"snd_voice_d0",
+  "parent":{
+    "name":"minigames",
+    "path":"folders/Sounds/minigames.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_voice_d0.wav",
+  "type":0,
+  "volume":1.0,
+}

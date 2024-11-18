@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_0.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_1.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_2.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_3.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_4.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_5.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_6.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_7.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_8.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_9.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_10.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_11.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_12.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_13.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_14.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_15.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_16.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_17.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_18.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_19.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_20.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_21.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_22.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_23.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_24.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_25.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_26.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_27.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_28.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_29.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_30.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_31.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_32.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_33.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_34.bz2</texture>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_jumpscare_35.bz2</texture>
+  <tpe x="2" y="2" tpage="tg_jumpscare_0.bz2">spr_jump_1_279ba13f-7684-475d-8aae-86748b2935b7.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_0.bz2">spr_jump_1_3bfd2493-24fd-424e-b462-cb0b92742c8a.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_0.bz2">spr_jump_1_be282af8-4167-489d-981a-dbfeb2c6d134.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_0.bz2">spr_jump_1_ea9c3648-21ab-489a-a2dc-1cb26fe81eda.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_0.bz2">spr_jump_1_ec93510c-9ccc-4a1e-b0c8-3c3437e487f3.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_0.bz2">spr_jump_2_01a49de2-3464-4613-a8aa-679f9d14d44a.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_1.bz2">spr_jump_2_078bdc44-6ddb-4291-afc7-cd78985f1513.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_1.bz2">spr_jump_2_0a381c28-c134-4a4b-81b4-bf3f6c92272c.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_1.bz2">spr_jump_2_12d913bf-7f6e-4131-adb9-683cc2dc6d7f.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_1.bz2">spr_jump_2_15f5fb1a-2b81-4a8c-b472-e37edd11fbbe.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_1.bz2">spr_jump_2_17c6570a-2a16-4c6b-bcd6-5f77361326d5.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_1.bz2">spr_jump_2_17e084f6-96f0-4a86-9abb-a3413102bafd.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_2.bz2">spr_jump_2_1845c542-8976-49ac-8cce-51f1cbb59f59.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_2.bz2">spr_jump_2_19091840-8c1b-4442-b5e9-0cd625a2034e.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_2.bz2">spr_jump_2_1aec2aa4-dce5-414d-9e95-9fd8d9e0e656.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_2.bz2">spr_jump_2_2105b823-4848-4615-95b3-299d0eeed136.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_2.bz2">spr_jump_2_2374e844-e959-42d1-bdc7-e55f947350eb.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_2.bz2">spr_jump_2_25842d80-dce3-4405-be09-30db3edc2d30.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_3.bz2">spr_jump_2_291e16c4-5fdf-4aa1-b9f3-ed7f72cf2f75.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_3.bz2">spr_jump_2_2f063877-13fa-43c5-910d-c3df90709fd5.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_3.bz2">spr_jump_2_3919e12b-917e-4160-aa9e-21cf8a3f972c.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_3.bz2">spr_jump_2_3959c5a7-3762-482a-a950-aa36bcfb7335.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_3.bz2">spr_jump_2_39af23a9-aaff-47f5-a53e-9de346287015.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_3.bz2">spr_jump_2_48044a3b-8522-4c60-b797-90bad43425db.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_4.bz2">spr_jump_2_4ecb3f37-f884-400c-801d-10fbfe057b8d.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_4.bz2">spr_jump_2_57d7879b-13fb-4aae-9af2-ac346f1f3769.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_4.bz2">spr_jump_2_5b550474-ef42-4b59-9770-0685c111b14d.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_4.bz2">spr_jump_2_5b94463b-629c-4d22-aa21-6a39a23468e0.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_4.bz2">spr_jump_2_60d5dec6-7155-4df2-9776-e0504b42c9fa.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_4.bz2">spr_jump_2_62f3585a-cc5f-4ddb-812d-a58dc50b9feb.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_5.bz2">spr_jump_2_6e05048c-e46f-46cf-b798-5facbed68638.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_5.bz2">spr_jump_2_721f5d2b-5fdd-4066-91e0-5a039e6f9524.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_5.bz2">spr_jump_2_73c842fa-4399-4611-aabe-b91a2fb1af63.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_5.bz2">spr_jump_2_790cecc6-471f-4447-8306-42c08d5d0d3e.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_5.bz2">spr_jump_2_791af3d9-33d4-4c75-a58f-4a62ef772de1.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_5.bz2">spr_jump_2_86b06481-7d5a-4c65-916d-31e654883a49.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_6.bz2">spr_jump_2_87648e7c-1432-4d29-b6ef-3f0645a23b72.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_6.bz2">spr_jump_2_895ae16f-f13c-4fb6-9cf9-adc4168f783f.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_6.bz2">spr_jump_2_909d08f6-03b3-4d6e-8b11-76684dc9b4a8.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_6.bz2">spr_jump_2_93040e1f-a1d9-4427-8518-b8dd2805318e.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_6.bz2">spr_jump_2_93bd42c8-8536-4281-b485-d03bafbb0f18.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_6.bz2">spr_jump_2_99fbd63e-3194-47ce-92a3-e3b46e4f5ba8.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_7.bz2">spr_jump_2_9b3a08f1-9a19-454f-b528-45348b7bed60.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_7.bz2">spr_jump_2_9bf07780-6c45-4e53-af74-192567da214b.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_7.bz2">spr_jump_2_aace76a3-deac-42be-9d37-2abbc98c6620.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_7.bz2">spr_jump_2_adb31767-fde9-4d88-a522-55da40975bc7.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_7.bz2">spr_jump_2_b0d02d3a-13f6-4b31-9b81-264f300ea4b3.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_7.bz2">spr_jump_2_b1bf3a6a-642f-46c6-af55-ed556b9494dc.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_8.bz2">spr_jump_2_b2df7782-8842-43f0-9b4d-ca0f30f2459c.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_8.bz2">spr_jump_2_b3d89136-69fe-4f78-b8ad-92c4f141ef36.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_8.bz2">spr_jump_2_b6573b5a-0e73-4a6a-879d-82586f12bc2e.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_8.bz2">spr_jump_2_bba80244-c18d-4b8a-89bb-290871896f51.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_8.bz2">spr_jump_2_bc01b226-f3f1-45eb-9acb-d57bb0f334f2.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_8.bz2">spr_jump_2_cee03fa6-3ee4-4cd4-8165-10d3f2963f73.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_9.bz2">spr_jump_2_d59a0a5f-b95b-4b9d-b220-384001690547.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_9.bz2">spr_jump_2_daa66ccf-6509-4164-950e-6937353ad4df.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_9.bz2">spr_jump_2_dfb516e6-4a0b-41f4-b04e-bb3a415efdf9.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_9.bz2">spr_jump_2_e230e41b-5636-425b-82e2-755c3de74832.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_9.bz2">spr_jump_2_e81f05f6-abe5-43d3-9084-aa1329fbd44f.tpe</tpe>
+  <tpe x="966" y="1090" tpage="tg_jumpscare_9.bz2">spr_jump_2_ef8305bb-8ca9-42af-b4e5-93e016999780.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_10.bz2">spr_jump_2_f3f216c1-ca46-46d9-b133-bc3302c46385.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_10.bz2">spr_jump_2_fa173e8d-deec-4534-bf17-c81f9e2a8c16.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_10.bz2">spr_jump_2_c9c24dc1-7d17-45ec-aca6-69de713b766c.tpe</tpe>
+  <tpe x="966" y="2" tpage="tg_jumpscare_10.bz2">spr_jump_1_fcba85fd-7ea9-42d7-baa6-fc2165e4eba0.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_12.bz2">spr_jump_1_10ee0770-2f90-4be2-9218-588d8d2667e3.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_12.bz2">spr_jump_1_2ec0ef40-590e-4e59-81bc-07f474ed7486.tpe</tpe>
+  <tpe x="966" y="546" tpage="tg_jumpscare_10.bz2">spr_jump_1_314c68ab-140a-4fa4-917c-07a2866d6fa3.tpe</tpe>
+  <tpe x="950" y="1090" tpage="tg_jumpscare_10.bz2">spr_jump_1_32aa5895-1d7a-4c69-ad00-ac6d4d676b64.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_11.bz2">spr_jump_1_4269aea6-5fbf-4988-8d46-c2dc39fa6ce1.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_11.bz2">spr_jump_1_4d989be3-ac09-485c-b711-377f0063e88e.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_11.bz2">spr_jump_1_589f7890-f5c9-4954-8fac-7c86b3e0ae39.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_12.bz2">spr_jump_1_70cc8462-42ad-4357-b4c0-80216b899233.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_11.bz2">spr_jump_1_86b51b37-ca8f-4eb3-b54a-1763ae24d8e0.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_11.bz2">spr_jump_1_bd50f464-5fab-4fa2-b65d-ef02c31e21cb.tpe</tpe>
+  <tpe x="931" y="1090" tpage="tg_jumpscare_11.bz2">spr_jump_1_c4f42f37-7725-4bff-8b40-23b484f572ad.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_12.bz2">spr_jump_1_ce3667e3-232f-421f-980e-55d8ccbbac15.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_12.bz2">spr_jump_1_d49ee47c-941e-4c2e-a7b6-18636ff2b780.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_12.bz2">spr_jump_1_d9234119-4ca8-491f-8016-6415f8947f30.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_12.bz2">spr_jump_1_dd000bae-8cd0-49fd-9d1d-590750154e99.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_12.bz2">spr_jump_1_e8beebc2-8f72-40e1-895e-f55fe68740b2.tpe</tpe>
+  <tpe x="931" y="1090" tpage="tg_jumpscare_12.bz2">spr_jump_1_efc71d79-71c3-42b3-a27a-47a20fa66417.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_13.bz2">spr_jump_1_fdaf20f3-15fb-4d31-95f0-6102074dfdc2.tpe</tpe>
+  <tpe x="2" y="543" tpage="tg_jumpscare_13.bz2">spr_jump_2_6f880203-e4d8-4881-b2b5-92627a4a074f.tpe</tpe>
+  <tpe x="2" y="1087" tpage="tg_jumpscare_13.bz2">spr_jump_1_443e6709-1343-49d4-9e83-e8404224a3ba.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_13.bz2">spr_jump_2_584e93ac-078b-4f5a-a138-29b983090301.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_13.bz2">spr_jump_2_b6488cf7-7391-4325-9c1d-1b07bf950e70.tpe</tpe>
+  <tpe x="931" y="1090" tpage="tg_jumpscare_13.bz2">spr_jump_1_1c2110b8-035a-49c6-9245-c1f7b6a36a58.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_14.bz2">spr_jump_1_297d9ae4-6091-4118-89e2-21c81fb7c645.tpe</tpe>
+  <tpe x="2" y="536" tpage="tg_jumpscare_14.bz2">spr_jump_1_05722a86-2fb6-4335-95a3-15a06c7d36e9.tpe</tpe>
+  <tpe x="2" y="1069" tpage="tg_jumpscare_14.bz2">spr_jump_0_54ec13c0-9faf-4967-b4de-1b21ea9d1b04.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_14.bz2">spr_jump_0_e34aa92c-81e9-40a7-b6c0-a2aaa7826113.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_14.bz2">spr_jump_1_aa14c71e-d454-49f1-a179-143165a49f6a.tpe</tpe>
+  <tpe x="910" y="1075" tpage="tg_jumpscare_14.bz2">spr_jump_1_e68e39d6-ed2b-493e-84be-75904788dba0.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_15.bz2">spr_jump_1_5997a71f-cc69-481b-996c-7089f4c2d798.tpe</tpe>
+  <tpe x="2" y="526" tpage="tg_jumpscare_15.bz2">spr_jump_1_bba8fd3f-e90c-4c1f-a553-af29c19c2f0e.tpe</tpe>
+  <tpe x="2" y="1050" tpage="tg_jumpscare_15.bz2">spr_jump_1_e8e99ca3-749a-4a14-9da1-91d2322182d4.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_15.bz2">spr_jump_1_5e2ef882-921c-4195-908b-808af30f5724.tpe</tpe>
+  <tpe x="931" y="525" tpage="tg_jumpscare_15.bz2">spr_jump_0_a60c421e-5efa-449b-bc36-89eb467dbc1a.tpe</tpe>
+  <tpe x="931" y="1069" tpage="tg_jumpscare_15.bz2">spr_jump_2_f9c90ae2-52fd-4202-80ad-7ebb9d6fe29e.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_16.bz2">spr_jump_1_284f2e4b-c0ef-49a9-a2f2-d32132746bb0.tpe</tpe>
+  <tpe x="2" y="520" tpage="tg_jumpscare_16.bz2">spr_jump_1_896f0ad0-28e1-4b41-8ef0-0443c10e6297.tpe</tpe>
+  <tpe x="2" y="1038" tpage="tg_jumpscare_16.bz2">spr_jump_0_c58d168a-33df-4edb-8494-e85a2448069e.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_16.bz2">spr_jump_1_37eb102c-8b06-47db-9783-ca171ede4bd8.tpe</tpe>
+  <tpe x="931" y="519" tpage="tg_jumpscare_16.bz2">spr_jump_1_1ecb507a-0430-4581-9bb2-1915d3af48d3.tpe</tpe>
+  <tpe x="931" y="1034" tpage="tg_jumpscare_16.bz2">spr_jump_1_0c1b2fbd-5be8-4efb-8125-bb98570d4c9d.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_17.bz2">spr_jump_1_4e204ce5-921d-499a-985c-2b18e0f0613d.tpe</tpe>
+  <tpe x="2" y="511" tpage="tg_jumpscare_17.bz2">spr_jump_1_ba7c6743-75cb-4090-8c94-19a82f030f64.tpe</tpe>
+  <tpe x="2" y="1019" tpage="tg_jumpscare_17.bz2">spr_jump_2_7f856fe0-81a7-4486-81a7-e75ccc7bb68a.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_17.bz2">spr_jump_0_6265e7bc-222f-43ef-96ee-12ccc9c95207.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_17.bz2">spr_jump_1_5a677b04-497d-4bee-b458-d7bfce6fe764.tpe</tpe>
+  <tpe x="869" y="1053" tpage="tg_jumpscare_17.bz2">spr_jump_1_9f882e75-819b-46c8-9587-6017ea185a91.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_18.bz2">spr_jump_1_bf3628bb-a3b5-40e1-94f5-1ce1a1918134.tpe</tpe>
+  <tpe x="2" y="509" tpage="tg_jumpscare_18.bz2">spr_jump_1_b39ae1e3-3a11-4fbc-8851-f6fa68c375ef.tpe</tpe>
+  <tpe x="2" y="1015" tpage="tg_jumpscare_18.bz2">spr_jump_1_f334519d-53f0-4851-a1ca-834624f1e892.tpe</tpe>
+  <tpe x="2" y="1521" tpage="tg_jumpscare_18.bz2">spr_jump_1_aa79445a-d664-4cc9-884b-546ee9ef1856.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_18.bz2">spr_jump_1_c8052fa7-3e59-45d6-aea1-262186d4991f.tpe</tpe>
+  <tpe x="931" y="507" tpage="tg_jumpscare_18.bz2">spr_jump_2_251af168-b0ab-4649-80eb-96fe3392deb3.tpe</tpe>
+  <tpe x="931" y="1051" tpage="tg_jumpscare_18.bz2">spr_jump_1_03d6dd40-eae9-4ce9-a509-226b706d3176.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_19.bz2">spr_jump_1_6afbc2bb-2862-46bc-bab6-995b7c8137df.tpe</tpe>
+  <tpe x="886" y="1547" tpage="tg_jumpscare_16.bz2">spr_jump_1_07f875e3-5668-4f83-a310-49ea4f3a4d4e.tpe</tpe>
+  <tpe x="2" y="506" tpage="tg_jumpscare_19.bz2">spr_jump_1_103222b6-edf9-4bef-ad1b-93436d848e4a.tpe</tpe>
+  <tpe x="2" y="1008" tpage="tg_jumpscare_19.bz2">spr_jump_1_78b2f26d-572a-442a-a64f-9a4cfa2cbb5a.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_19.bz2">spr_jump_2_7fd8511a-bac1-4654-a487-c950ed21aacd.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_19.bz2">spr_jump_1_fa9d378c-b345-4a84-a0f1-fda6c206bb3a.tpe</tpe>
+  <tpe x="931" y="1046" tpage="tg_jumpscare_19.bz2">spr_jump_1_068b7e22-2fc6-4ad0-ba94-dbf7ae72070f.tpe</tpe>
+  <tpe x="2" y="1545" tpage="tg_jumpscare_19.bz2">spr_jump_1_53bb69c4-6bc8-48cd-89c2-568084abde04.tpe</tpe>
+  <tpe x="931" y="1545" tpage="tg_jumpscare_19.bz2">spr_jump_1_80de68e2-bdbd-43b6-81a0-5b99d9b35167.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_20.bz2">spr_jump_1_041c0fe3-ed89-4a2f-944c-614de6fabc96.tpe</tpe>
+  <tpe x="2" y="499" tpage="tg_jumpscare_20.bz2">spr_jump_1_10413cc9-9117-481b-be56-3e3e78d35c59.tpe</tpe>
+  <tpe x="2" y="996" tpage="tg_jumpscare_20.bz2">spr_jump_1_41b388f5-a87b-4a29-b2d2-0f963d085201.tpe</tpe>
+  <tpe x="2" y="1493" tpage="tg_jumpscare_20.bz2">spr_jump_1_dd21e222-70a5-458b-aa01-1b0a68426233.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_20.bz2">spr_jump_1_f2528e54-db7f-4c09-a916-2d7ad056cc3c.tpe</tpe>
+  <tpe x="931" y="499" tpage="tg_jumpscare_20.bz2">spr_jump_0_760adc20-ae65-4e74-b7e6-35f3b9f957ef.tpe</tpe>
+  <tpe x="931" y="1043" tpage="tg_jumpscare_20.bz2">spr_jump_0_e440a249-4a6b-429c-afc0-aa239e208e15.tpe</tpe>
+  <tpe x="931" y="1555" tpage="tg_jumpscare_18.bz2">spr_jump_1_9b2e54ce-cb65-413d-bdfe-eef92e05d00d.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_21.bz2">spr_jump_0_6411dfa2-d04e-40d2-bc15-7fa6af94e72a.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_21.bz2">spr_jump_1_6ab83fd9-d15a-4f43-a910-70630a432332.tpe</tpe>
+  <tpe x="2" y="1039" tpage="tg_jumpscare_21.bz2">spr_jump_1_153e7655-f675-4707-9a76-3aa3d5649531.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_21.bz2">spr_jump_0_95ad5f30-3fac-45f5-9f45-807ea19f5cc7.tpe</tpe>
+  <tpe x="869" y="1560" tpage="tg_jumpscare_17.bz2">spr_jump_1_b4d2667a-6180-4d2f-99e6-8559b8c604f3.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_21.bz2">spr_jump_1_4c6e80ad-adad-43b1-b97e-1be2c6827688.tpe</tpe>
+  <tpe x="931" y="1035" tpage="tg_jumpscare_21.bz2">spr_jump_1_b85470f5-83ce-40f2-b8f5-2afd2f2a9969.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_22.bz2">spr_jump_2_832d1369-22a1-49e8-82c3-a936cf482bb5.tpe</tpe>
+  <tpe x="2" y="1531" tpage="tg_jumpscare_21.bz2">spr_jump_1_6e56b9d2-5367-4a10-989c-606fa94fc3e9.tpe</tpe>
+  <tpe x="931" y="1524" tpage="tg_jumpscare_21.bz2">spr_jump_1_769a935b-55b5-4209-906c-d68b8bcea87c.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_22.bz2">spr_jump_1_d41d931f-887e-42c8-abf6-0e46e5c74a52.tpe</tpe>
+  <tpe x="2" y="1034" tpage="tg_jumpscare_22.bz2">spr_jump_1_928c5fb2-28e8-43f4-866d-864ab708f93a.tpe</tpe>
+  <tpe x="2" y="1521" tpage="tg_jumpscare_22.bz2">spr_jump_1_a2a60a4f-6a65-4bdc-a307-ab50c26288d4.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_22.bz2">spr_jump_0_4f30810f-24fa-4fc0-8f82-7438d4e0b608.tpe</tpe>
+  <tpe x="931" y="546" tpage="tg_jumpscare_22.bz2">spr_jump_1_211114de-47dc-4557-b37f-b009c7c42f55.tpe</tpe>
+  <tpe x="931" y="1032" tpage="tg_jumpscare_22.bz2">spr_jump_1_67e0eb22-d188-4d5e-87df-9cd8e46b749b.tpe</tpe>
+  <tpe x="931" y="1518" tpage="tg_jumpscare_22.bz2">spr_jump_1_6e8def3e-48b9-4b91-9191-68209e684086.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_23.bz2">spr_jump_0_8afa9650-c773-4959-a63a-5c229d98ca6b.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_23.bz2">spr_jump_1_14b7214e-0625-43c0-b23b-42202a981977.tpe</tpe>
+  <tpe x="2" y="1028" tpage="tg_jumpscare_23.bz2">spr_jump_2_b8ade963-e329-4928-8bb4-6ed74166e545.tpe</tpe>
+  <tpe x="931" y="2" tpage="tg_jumpscare_23.bz2">spr_jump_1_1990cbb3-83b2-4c11-beee-47511bf52ba0.tpe</tpe>
+  <tpe x="931" y="483" tpage="tg_jumpscare_23.bz2">spr_jump_2_c2949a8d-75fc-47b8-9dd1-ea72afc28f3e.tpe</tpe>
+  <tpe x="2" y="1572" tpage="tg_jumpscare_23.bz2">spr_jump_1_ec0b1a0a-430b-4638-9f5c-5bc6da14672e.tpe</tpe>
+  <tpe x="931" y="1027" tpage="tg_jumpscare_23.bz2">spr_jump_0_bed8db41-16fd-47c8-9fa0-429b086dd10f.tpe</tpe>
+  <tpe x="2" y="1574" tpage="tg_jumpscare_15.bz2">spr_jump_1_d7d8c3f8-653f-435b-b749-bbf853449809.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_24.bz2">spr_jump_2_bcca8626-1487-43e4-a81e-c95d58987069.tpe</tpe>
+  <tpe x="931" y="1571" tpage="tg_jumpscare_23.bz2">spr_jump_1_078fd3d2-c51f-422f-b4ec-80765987d9aa.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_24.bz2">spr_jump_0_16ec48a7-8fcd-4544-8c3b-8b7ddc462c40.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_24.bz2">spr_jump_0_b839016b-7b0d-4328-85e7-abf2f9bcc80e.tpe</tpe>
+  <tpe x="813" y="2" tpage="tg_jumpscare_24.bz2">spr_jump_2_820f4194-b61e-4273-af89-81ed33a1276b.tpe</tpe>
+  <tpe x="810" y="546" tpage="tg_jumpscare_24.bz2">spr_jump_0_5fa6edd0-8dbb-4fba-b92b-ec7062e72cea.tpe</tpe>
+  <tpe x="807" y="1090" tpage="tg_jumpscare_24.bz2">spr_jump_0_c02d501e-f187-4b1c-b4e5-7e38623d4522.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_25.bz2">spr_jump_0_711074c2-2ee4-4765-8a80-b7b9e4c79d76.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_25.bz2">spr_jump_0_1b49a0b3-bc5a-4bdc-8885-16ec34138d1c.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_25.bz2">spr_jump_2_7e5e2650-902e-4c24-9ce4-2ebf545e90d2.tpe</tpe>
+  <tpe x="795" y="2" tpage="tg_jumpscare_25.bz2">spr_jump_1_a1e5185a-4d82-4773-bdcc-508430dc77c4.tpe</tpe>
+  <tpe x="795" y="487" tpage="tg_jumpscare_25.bz2">spr_jump_0_9489b202-7d75-41a1-b5dc-5f4e9266b9ee.tpe</tpe>
+  <tpe x="793" y="1031" tpage="tg_jumpscare_25.bz2">spr_jump_0_f7b5d368-b84b-4af5-98f0-a1723ddd7873.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_26.bz2">spr_jump_0_5cb37fe4-b779-47a7-8daf-77dc4f808f0e.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_26.bz2">spr_jump_0_8e8b3060-c8f1-4664-8391-7a75af3ebd50.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_26.bz2">spr_jump_0_90575e7f-15ad-436d-85e5-41107175430a.tpe</tpe>
+  <tpe x="779" y="2" tpage="tg_jumpscare_26.bz2">spr_jump_0_9b914f71-3d00-474d-a9c1-aca275b7942a.tpe</tpe>
+  <tpe x="774" y="546" tpage="tg_jumpscare_26.bz2">spr_jump_0_e5433bc9-7fa2-4830-ab71-189eda047129.tpe</tpe>
+  <tpe x="774" y="1090" tpage="tg_jumpscare_26.bz2">spr_jump_0_8835a253-2733-4737-a576-bad42b735129.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_27.bz2">spr_jump_0_a322e125-ea71-4d3f-bc02-b74fc084a7bc.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_27.bz2">spr_jump_0_0c277921-c3a9-4d58-8b85-9b818a7b3f96.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_27.bz2">spr_jump_0_f3c962f2-f8c6-4203-980c-0517a03af5e8.tpe</tpe>
+  <tpe x="772" y="2" tpage="tg_jumpscare_27.bz2">spr_jump_2_6ee3a5cd-b961-4eb6-ae69-eba623643a1c.tpe</tpe>
+  <tpe x="770" y="546" tpage="tg_jumpscare_27.bz2">spr_jump_0_7d35629c-b792-40e4-96e1-b43c062ec95d.tpe</tpe>
+  <tpe x="769" y="1090" tpage="tg_jumpscare_27.bz2">spr_jump_0_c7d969c5-1cb5-45d4-a9fb-ccd2cf91d39b.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_28.bz2">spr_jump_0_2d57ac2b-2d8f-4205-8923-3fef37b6634d.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_28.bz2">spr_jump_2_712ba44f-cdf4-4fea-9fe5-a2e31ffe3773.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_28.bz2">spr_jump_0_0bc0a6bd-a3ee-4413-912c-3f298d2dcbdf.tpe</tpe>
+  <tpe x="761" y="2" tpage="tg_jumpscare_28.bz2">spr_jump_0_626a92df-b613-49f8-b83b-82207a08d1a4.tpe</tpe>
+  <tpe x="759" y="546" tpage="tg_jumpscare_28.bz2">spr_jump_0_6cf6140d-9ba0-4d51-b8df-174fc5eeb528.tpe</tpe>
+  <tpe x="737" y="1090" tpage="tg_jumpscare_28.bz2">spr_jump_0_0b9b2c65-8b0c-4191-8f65-5f26e7cea4c7.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_29.bz2">spr_jump_0_4cf151ed-3c5e-4b08-9d03-4d7607822a3e.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_29.bz2">spr_jump_0_69b50d9f-56a4-4af2-90b3-8d705c751b0c.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_29.bz2">spr_jump_0_94fca8d9-26c6-4eab-bd6c-f27357cb2ac2.tpe</tpe>
+  <tpe x="736" y="2" tpage="tg_jumpscare_29.bz2">spr_jump_0_e34a3d00-fb46-4034-8de4-9300a24c4666.tpe</tpe>
+  <tpe x="736" y="546" tpage="tg_jumpscare_29.bz2">spr_jump_0_fa0e18d4-0a1d-4868-8b82-3f2204d95832.tpe</tpe>
+  <tpe x="736" y="1090" tpage="tg_jumpscare_29.bz2">spr_jump_0_acb4c1df-5513-49c2-bf9c-f1c74fda7425.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_30.bz2">spr_jump_2_e15e930d-d180-4a8a-9373-619a04ef9f0e.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_30.bz2">spr_jump_0_1474acc1-94a5-46d9-ad52-a57cc821a526.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_30.bz2">spr_jump_2_34be453c-c2be-4500-9256-0ff291e4c0a6.tpe</tpe>
+  <tpe x="731" y="2" tpage="tg_jumpscare_30.bz2">spr_jump_4_d6f3c88a-e1c0-4527-af9f-9d43b050a182.tpe</tpe>
+  <tpe x="731" y="514" tpage="tg_jumpscare_30.bz2">spr_jump_0_dba306f2-8f33-414a-9e37-8045a252d8cb.tpe</tpe>
+  <tpe x="731" y="1058" tpage="tg_jumpscare_30.bz2">spr_jump_0_74e5b1f5-caad-4bb7-865b-7bd2223baa46.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_31.bz2">spr_jump_0_8da7e814-8ca4-4b6e-bbfe-e424d892fbee.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_7e12ef14-36de-4a59-b234-b21e16d75f3a.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_31.bz2">spr_jump_0_76a9866f-c6fe-4764-be9b-86872dd1146b.tpe</tpe>
+  <tpe x="694" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_0140b98b-e358-428b-bcca-6aa9bbc9a134.tpe</tpe>
+  <tpe x="698" y="2" tpage="tg_jumpscare_31.bz2">spr_jump_0_06165408-449b-463a-9892-1f26c19e4bff.tpe</tpe>
+  <tpe x="694" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_0fa1c0db-d3de-4b56-b550-15c4a3e1a7a1.tpe</tpe>
+  <tpe x="694" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_167a4e63-3414-41d1-a284-6eaa02b468a2.tpe</tpe>
+  <tpe x="694" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_19a5e947-a253-4029-ad68-acea7d7927f0.tpe</tpe>
+  <tpe x="694" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_8815df0c-7c55-49de-ae9c-f51548292eee.tpe</tpe>
+  <tpe x="694" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_8f74c45e-505a-4aea-a5c6-1aae07a5758a.tpe</tpe>
+  <tpe x="2" y="1563" tpage="tg_jumpscare_17.bz2">spr_jump_1_7c72cb9a-c302-41a9-b214-0d1e6707b839.tpe</tpe>
+  <tpe x="693" y="1090" tpage="tg_jumpscare_31.bz2">spr_jump_0_4e455cb9-2816-499b-a138-0124fdf35744.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_32.bz2">spr_jump_0_ed797b64-d18c-4529-90b5-1373775f008b.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_32.bz2">spr_jump_0_ce0e08db-04ca-4a4d-90ff-ae843a092b31.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_32.bz2">spr_jump_2_e101e1bb-f0b1-4f18-82ab-1b308485e5c7.tpe</tpe>
+  <tpe x="707" y="2" tpage="tg_jumpscare_32.bz2">spr_jump_2_72ab2ab7-270d-4eb2-b4f5-29e5d2bd23f4.tpe</tpe>
+  <tpe x="1375" y="1090" tpage="tg_jumpscare_31.bz2">spr_jump_0_c4657b97-583a-4451-b150-01637aa01abb.tpe</tpe>
+  <tpe x="1384" y="546" tpage="tg_jumpscare_31.bz2">spr_jump_0_b584175f-d7bf-4681-a963-42a84ef0b78a.tpe</tpe>
+  <tpe x="707" y="527" tpage="tg_jumpscare_32.bz2">spr_jump_0_4e4ec84f-2dbd-4051-94e3-df0f4b8c07bb.tpe</tpe>
+  <tpe x="707" y="1071" tpage="tg_jumpscare_32.bz2">spr_jump_0_b3d58aca-4408-4f6c-935b-acd55b367764.tpe</tpe>
+  <tpe x="1388" y="2" tpage="tg_jumpscare_31.bz2">spr_jump_0_1c2c0678-9bab-4d3e-bf0e-835346d9dc96.tpe</tpe>
+  <tpe x="1370" y="527" tpage="tg_jumpscare_32.bz2">spr_jump_0_d46a61ff-8919-4fb2-85ce-eeb4cf8efde5.tpe</tpe>
+  <tpe x="1370" y="1071" tpage="tg_jumpscare_32.bz2">spr_jump_0_762f9d5c-8b3d-492f-b454-63b71bad678b.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_33.bz2">spr_jump_0_9b5a029f-b93f-4d9d-a8f9-34fb66aa6487.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_33.bz2">spr_jump_0_03ac712b-36ec-4809-bdc2-2369746f0b0e.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_33.bz2">spr_jump_0_0de3c3fc-9bb0-4343-af22-dfb455f187f1.tpe</tpe>
+  <tpe x="652" y="2" tpage="tg_jumpscare_33.bz2">spr_jump_2_baec0dc8-7b23-4407-85e9-3b0c54097f7a.tpe</tpe>
+  <tpe x="1339" y="2" tpage="tg_jumpscare_33.bz2">spr_jump_0_7d5e1f7c-5d15-4181-8223-53811b0fef75.tpe</tpe>
+  <tpe x="652" y="512" tpage="tg_jumpscare_33.bz2">spr_jump_0_d16efd34-9492-4407-84a5-cc68238ecb52.tpe</tpe>
+  <tpe x="1285" y="546" tpage="tg_jumpscare_33.bz2">spr_jump_0_7b4cbd8a-21fd-4ad6-9261-c2d28dd54049.tpe</tpe>
+  <tpe x="646" y="1090" tpage="tg_jumpscare_33.bz2">spr_jump_2_7a7995c9-e4c0-4d0d-aa27-cb0597e8f7ff.tpe</tpe>
+  <tpe x="1324" y="1090" tpage="tg_jumpscare_33.bz2">spr_jump_0_6d93b9fe-b1d3-4dc0-b92e-c16f9fe2ed31.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_34.bz2">spr_jump_0_7ded6216-5919-4e4a-be3d-6c8eecca623a.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_34.bz2">spr_jump_2_2f925fdb-5fd1-4524-b6f8-3ef92029afe0.tpe</tpe>
+  <tpe x="2" y="1634" tpage="tg_jumpscare_0.bz2">spr_jump_2_f9378352-472f-469f-8639-206aef6b5244.tpe</tpe>
+  <tpe x="2" y="1049" tpage="tg_jumpscare_34.bz2">spr_jump_2_392d2f4c-39ca-41e5-90bb-bf30d5e5a676.tpe</tpe>
+  <tpe x="1428" y="1058" tpage="tg_jumpscare_30.bz2">spr_jump_0_5c15f45c-dc8b-4016-9ff2-fa16c7e084bd.tpe</tpe>
+  <tpe x="677" y="2" tpage="tg_jumpscare_34.bz2">spr_jump_2_07673cf5-987d-4050-8aba-7a2c41154aa0.tpe</tpe>
+  <tpe x="1435" y="514" tpage="tg_jumpscare_30.bz2">spr_jump_0_f35b964a-9f01-47c1-969c-2208a095d618.tpe</tpe>
+  <tpe x="677" y="502" tpage="tg_jumpscare_34.bz2">spr_jump_1_a53968cf-45cb-4ec8-bec7-18792868bc37.tpe</tpe>
+  <tpe x="1360" y="2" tpage="tg_jumpscare_34.bz2">spr_jump_0_2bd11038-230b-42bc-99a5-198527a270cf.tpe</tpe>
+  <tpe x="1360" y="546" tpage="tg_jumpscare_34.bz2">spr_jump_0_05740484-98a7-43c5-85c6-463db025d0ae.tpe</tpe>
+  <tpe x="677" y="984" tpage="tg_jumpscare_34.bz2">spr_jump_0_9e3afb2e-5815-4998-9593-389ca665b55a.tpe</tpe>
+  <tpe x="633" y="1476" tpage="tg_jumpscare_34.bz2">spr_jump_0_44ac3fae-2cd8-4a86-b9e9-a6019c4af629.tpe</tpe>
+  <tpe x="1463" y="1090" tpage="tg_jumpscare_29.bz2">spr_jump_0_06964cf3-8442-4c16-9404-a0bd5e52f496.tpe</tpe>
+  <tpe x="1463" y="1090" tpage="tg_jumpscare_29.bz2">spr_jump_0_112d612e-888f-4982-b036-bfa7e34bae0c.tpe</tpe>
+  <tpe x="1333" y="1090" tpage="tg_jumpscare_34.bz2">spr_jump_0_91bb6185-9e31-4f7d-b5cc-bb2f7aaddf82.tpe</tpe>
+  <tpe x="2" y="2" tpage="tg_jumpscare_35.bz2">spr_jump_0_9d69a1c2-4262-425a-ae7f-ed276a2982ad.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_jumpscare_35.bz2">spr_jump_0_a1d91579-4b8e-47db-813d-e3f7b4e4a06b.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_jumpscare_35.bz2">spr_jump_0_f7169b3e-0383-4c64-a70c-05822b7f98ef.tpe</tpe>
+  <tpe x="1404" y="2" tpage="tg_jumpscare_32.bz2">spr_jump_4_0d6d3bf6-1fd0-443a-b413-066498e8342f.tpe</tpe>
+  <tpe x="589" y="2" tpage="tg_jumpscare_35.bz2">spr_jump_4_173e00a8-1e3c-403a-ac8c-b382524b7e1b.tpe</tpe>
+  <tpe x="589" y="514" tpage="tg_jumpscare_35.bz2">spr_jump_4_391af4a9-db87-4559-9286-e7de70bd324c.tpe</tpe>
+  <tpe x="589" y="1026" tpage="tg_jumpscare_35.bz2">spr_jump_4_c956b8d5-9f89-4826-be88-73662589a3ce.tpe</tpe>
+  <tpe x="910" y="1601" tpage="tg_jumpscare_14.bz2">spr_jump_2_053a80e7-4d88-47cb-9c4c-f0497f3ee6d1.tpe</tpe>
+  <tpe x="1471" y="1090" tpage="tg_jumpscare_28.bz2">spr_jump_1_fb73336e-e2f3-494d-9a28-16315c6d670f.tpe</tpe>
+  <tpe x="966" y="1634" tpage="tg_jumpscare_0.bz2">spr_jump_0_de2f3310-bf67-4981-9d6a-fc04abce4020.tpe</tpe>
+  <tpe x="2" y="1634" tpage="tg_jumpscare_1.bz2">spr_jump_2_457fd937-1e75-4e01-85cf-c34c7877be7a.tpe</tpe>
+  <tpe x="1614" y="2" tpage="tg_jumpscare_24.bz2">spr_jump_1_df96d682-4746-4bf6-b6fc-9859e359264f.tpe</tpe>
+  <tpe x="2" y="1582" tpage="tg_jumpscare_16.bz2">spr_jump_1_ae58e739-4f16-492e-86d2-c68ada6f0805.tpe</tpe>
+  <tpe x="643" y="1634" tpage="tg_jumpscare_1.bz2">spr_jump_0_8fac24a4-1a50-44ce-95c3-84c59bae30d9.tpe</tpe>
+  <tpe x="1299" y="1634" tpage="tg_jumpscare_1.bz2">spr_jump_2_ec3f0b86-fc88-4a34-9c79-aec2803272ab.tpe</tpe>
+  <tpe x="1619" y="1634" tpage="tg_jumpscare_0.bz2">spr_jump_1_ea3058f9-6f99-4402-b14d-feefbb68eb2e.tpe</tpe>
+  <tpe x="643" y="1858" tpage="tg_jumpscare_1.bz2">spr_jump_0_962218d5-bdd0-467f-86a8-e10f7c09c392.tpe</tpe>
+  <tpe x="1306" y="1855" tpage="tg_jumpscare_1.bz2">spr_jump_2_7cb1f4d4-46a0-443d-a1b1-4aae99ef5487.tpe</tpe>
+  <tpe x="2" y="1634" tpage="tg_jumpscare_2.bz2">spr_jump_1_96b943d3-4b19-4354-ac24-fc77727195e0.tpe</tpe>
+  <tpe x="2" y="1727" tpage="tg_jumpscare_2.bz2">spr_jump_1_43c20a5c-19d2-4121-8419-225844b50b95.tpe</tpe>
+  <tpe x="1619" y="1980" tpage="tg_jumpscare_0.bz2">spr_jump_0_95c9b179-b669-430d-8629-40730b9576d1.tpe</tpe>
+  <tpe x="1721" y="1980" tpage="tg_jumpscare_0.bz2">spr_jump_2_99e54dca-b5d2-4462-8d6f-315985225a0f.tpe</tpe>
+  <tpe x="2" y="1988" tpage="tg_jumpscare_0.bz2">spr_jump_0_f9e44aca-d930-4aa2-b83d-fedc0b8ff6d5.tpe</tpe>
+  <tpe x="2" y="2016" tpage="tg_jumpscare_0.bz2">spr_jump_2_29f65850-c709-476a-83db-989d0c6f760b.tpe</tpe>
+  <tpe x="2" y="2016" tpage="tg_jumpscare_0.bz2">spr_jump_2_59389665-94d8-488c-aed9-d89c751e14f6.tpe</tpe>
+  <tpe x="2" y="2016" tpage="tg_jumpscare_0.bz2">spr_jump_2_6bcc700a-2de6-4a2f-bbc1-c24b88db4ca1.tpe</tpe>
+</TextureGroup>

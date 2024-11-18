@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__input_player_apply_trigger_effects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__input_player_apply_trigger_effects",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Input/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

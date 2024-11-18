@@ -1,0 +1,1 @@
+draw_text_scribble(windowWidth()/2,windowHeight()/2,"[fa_center][fa_pixel][scale,0.5]" + "I ran out of ideans\nMove right :3\n(NOT LEFT!!!)")

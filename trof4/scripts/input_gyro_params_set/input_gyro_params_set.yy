@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"input_gyro_params_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_gyro_params_set",
+  "parent":{
+    "name":"Gyro",
+    "path":"folders/Input/Gyro.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

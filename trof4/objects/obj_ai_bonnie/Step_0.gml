@@ -1,0 +1,2 @@
+//AIscript()
+midAIcheck()

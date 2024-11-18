@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_musicbox",
+  "audioGroupId":{
+    "name":"ag_musicbox",
+    "path":"audiogroups/ag_musicbox",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":136.6204,
+  "name":"snd_musicbox",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_musicbox.wav",
+  "type":0,
+  "volume":1.0,
+}

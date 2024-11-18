@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"input_color_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_color_set",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Input/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

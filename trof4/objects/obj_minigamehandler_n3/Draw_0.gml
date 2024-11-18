@@ -1,0 +1,1 @@
+draw_text_scribble(windowWidth()/2,60,"[fa_center][fa_top][fa_pixel]" + string(clamp(realTimer,0,999)))

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_doorLight",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":10.930917,
+  "name":"snd_doorLight",
+  "parent":{
+    "name":"items",
+    "path":"folders/Sounds/items.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_doorLight.wav",
+  "type":0,
+  "volume":1.0,
+}

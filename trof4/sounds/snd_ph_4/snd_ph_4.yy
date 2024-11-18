@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_ph_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":253.89859,
+  "name":"snd_ph_4",
+  "parent":{
+    "name":"phonecalls",
+    "path":"folders/Sounds/phonecalls.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ph_4.wav",
+  "type":0,
+  "volume":1.0,
+}

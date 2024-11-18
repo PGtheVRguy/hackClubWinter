@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">tg_camera_char_0.bz2</texture>
+  <tpe x="2" y="2" tpage="tg_camera_char_0.bz2">spr_cam_3_0_4aed8db5-fb0f-4b8f-b052-961ef4e8973f.tpe</tpe>
+  <tpe x="2" y="546" tpage="tg_camera_char_0.bz2">spr_cam_6_2_ee0097dd-06be-4cd0-b664-57a0643e2f53.tpe</tpe>
+  <tpe x="2" y="1090" tpage="tg_camera_char_0.bz2">spr_cam_6_4_7ddac87e-90db-44a1-9160-19d72b8243a5.tpe</tpe>
+  <tpe x="474" y="1090" tpage="tg_camera_char_0.bz2">spr_cam_8_2_582ee2d9-1b93-47d2-b180-67f9b6fa6d46.tpe</tpe>
+  <tpe x="474" y="1597" tpage="tg_camera_char_0.bz2">spr_static_130aa7ba-1f24-4b73-8fda-883c4b044255.tpe</tpe>
+  <tpe x="976" y="2" tpage="tg_camera_char_0.bz2">spr_static_4054aab6-8f89-43f8-8f82-8da868d27eb8.tpe</tpe>
+  <tpe x="976" y="379" tpage="tg_camera_char_0.bz2">spr_static_9080b61c-fcec-48c2-b4cc-85373ea3e3a7.tpe</tpe>
+  <tpe x="976" y="756" tpage="tg_camera_char_0.bz2">spr_static_a314fb18-348f-477d-90a3-17188356a224.tpe</tpe>
+  <tpe x="976" y="1133" tpage="tg_camera_char_0.bz2">spr_static_b7ba204f-f971-4252-bf05-a760d54f443a.tpe</tpe>
+  <tpe x="976" y="1510" tpage="tg_camera_char_0.bz2">spr_cam_11_d1_de309adf-c4b1-4bd9-818b-6166381d585c.tpe</tpe>
+  <tpe x="1491" y="2" tpage="tg_camera_char_0.bz2">spr_cam_4_0_700869b2-8f22-4148-831e-f847e7d451c1.tpe</tpe>
+  <tpe x="1491" y="401" tpage="tg_camera_char_0.bz2">spr_cam_1_2_a38c8710-708d-4a4c-ad29-bfa4e19e6b6e.tpe</tpe>
+  <tpe x="1491" y="866" tpage="tg_camera_char_0.bz2">spr_freddy_smol_a38c8710-708d-4a4c-ad29-bfa4e19e6b6e.tpe</tpe>
+  <tpe x="1491" y="1329" tpage="tg_camera_char_0.bz2">spr_cam_2_2_122bd960-9cc2-4bf0-9e78-0caeea97b9fb.tpe</tpe>
+  <tpe x="1687" y="401" tpage="tg_camera_char_0.bz2">spr_cam_11_d0_de309adf-c4b1-4bd9-818b-6166381d585c.tpe</tpe>
+  <tpe x="1687" y="672" tpage="tg_camera_char_0.bz2">spr_cam_7_1_51d5b913-d70a-42e5-b3ca-6cc009258b26.tpe</tpe>
+  <tpe x="1877" y="672" tpage="tg_camera_char_0.bz2">spr_cam_1_0_a38c8710-708d-4a4c-ad29-bfa4e19e6b6e.tpe</tpe>
+  <tpe x="1686" y="1077" tpage="tg_camera_char_0.bz2">spr_cam_2_0_122bd960-9cc2-4bf0-9e78-0caeea97b9fb.tpe</tpe>
+  <tpe x="1778" y="2" tpage="tg_camera_char_0.bz2">spr_cam_12_1_9e6e2f50-8370-4945-8797-23d5eb313094.tpe</tpe>
+  <tpe x="1834" y="1135" tpage="tg_camera_char_0.bz2">spr_cam_6_4_2887912e-3b25-4664-9650-56ce5bafeb23.tpe</tpe>
+  <tpe x="1834" y="1396" tpage="tg_camera_char_0.bz2">spr_cam_6_4_6ea1c06a-d062-4f53-ac50-60596248bfe3.tpe</tpe>
+  <tpe x="1686" y="1540" tpage="tg_camera_char_0.bz2">spr_camera_10b98f2b-56c7-4d72-8c43-32de0c709db8.tpe</tpe>
+  <tpe x="1957" y="2" tpage="tg_camera_char_0.bz2">spr_cam_13_0_e4e7b71a-eb0e-47c8-94e1-3bea782b7dc5.tpe</tpe>
+  <tpe x="1809" y="1657" tpage="tg_camera_char_0.bz2">spr_camera_f7a6da76-d557-4a2b-bf7e-649cc1c6f786.tpe</tpe>
+  <tpe x="1491" y="1771" tpage="tg_camera_char_0.bz2">spr_cameraSpot_0c9e2fbd-25c3-48a3-b410-02de54ba5d72.tpe</tpe>
+  <tpe x="1778" y="357" tpage="tg_camera_char_0.bz2">spr_cameraSpot_c33621b6-4fc7-4489-b7c2-6dc9ef339035.tpe</tpe>
+  <tpe x="1478" y="2" tpage="tg_camera_char_0.bz2">spr_cam_5_1_ff767ead-88e0-43b7-b5c5-dfa682642eba.tpe</tpe>
+  <tpe x="1478" y="2" tpage="tg_camera_char_0.bz2">spr_cam_5_2_ff767ead-88e0-43b7-b5c5-dfa682642eba.tpe</tpe>
+  <tpe x="1478" y="2" tpage="tg_camera_char_0.bz2">spr_cam_6_4_ef47ffe8-4623-4572-a599-b3beaf18f92c.tpe</tpe>
+</TextureGroup>

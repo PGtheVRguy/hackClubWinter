@@ -1,0 +1,1 @@
+draw_sprite(spr_mi_overlay,0,0,0)
